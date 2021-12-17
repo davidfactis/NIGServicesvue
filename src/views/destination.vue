@@ -1,0 +1,110 @@
+<template>
+    <section class="destination" id="destination">
+
+    <div class="heading">
+        <span>our destination</span>
+        <h1>make yours destination</h1>
+    </div>
+
+    <div class="box-container">
+
+        <div class="box" data-aos="fade-up" data-aos-delay="150">
+            <div class="image">
+                <img src="images/des-1.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>tours & travel</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <div class="box" data-aos="fade-up" data-aos-delay="300">
+            <div class="image">
+                <img src="images/des-2.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>tours & travel</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <div class="box" data-aos="fade-up" data-aos-delay="450">
+            <div class="image">
+                <img src="images/des-3.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>tours & travel</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <div class="box" data-aos="fade-up" data-aos-delay="600">
+            <div class="image">
+                <img src="images/des-4.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>tours & travel</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <div class="box" data-aos="fade-up" data-aos-delay="750">
+            <div class="image">
+                <img src="images/des-5.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>tours & travel</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <div class="box" data-aos="fade-up" data-aos-delay="900">
+            <div class="image">
+                <img src="images/des-6.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>tours & travel</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <div class="box" data-aos="fade-up" data-aos-delay="1150">
+            <div class="image">
+                <img src="images/des-7.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>tours & travel</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+        <div class="box" data-aos="fade-up" data-aos-delay="1300">
+            <div class="image">
+                <img src="images/des-8.jpg" alt="">
+            </div>
+            <div class="content">
+                <h3>tours & travel</h3>
+                <p>Lorem ipsum dolor, sit amet consectetur adipisicing.</p>
+                <a href="#">read more <i class="fas fa-angle-right"></i></a>
+            </div>
+        </div>
+
+    </div>
+
+</section>
+</template>
+
+<script>
+export default {
+    setup() {
+        
+    },
+}
+</script>
